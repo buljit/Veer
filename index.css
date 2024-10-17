@@ -1,0 +1,39 @@
+*{
+    margin: 5%;
+    font-family: 'Courier New';
+}
+h2 {
+   color:black;
+   background-color:blue;
+
+}
+
+body {
+   background-color: lightblue;
+   text-align: center;
+}
+ul { 
+  text-align: center;
+  text-decoration: underline;
+}
+h3 {
+   text-decoration: overline;
+}
+
+#picture-frame {
+   border: 25px;border-radius: 50px;
+   width:250px; height:250px;
+}
+
+div>p >span {
+  text-decoration: solid;
+}
+
+
+
+ .h1 {
+    color:rgb(0, 0, 0);
+    background-color:lightblue;
+ }
+
+
